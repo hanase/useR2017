@@ -1,16 +1,7 @@
----
-title: "Introduction to parallel computing with R"
-author: |
-   | Hana &#352;ev&#269;&#237;kov&#225;^1^
-   |
-   | 1. University of Washington
-institute: 
-   - $^1$University of Washington
-output: html_document
-#bibliography: biblioExample.bib
-nocite: | 
-  @ref2, @ref3
----
+# Introduction to parallel computing with R
+Hana &#352;ev&#269;&#237;kov&#225;
+University of Washington
+
 
 **Keywords**: Parallel Computing, Master-Slave Paradigm, Reproducibility, Load Balancing, Distributed Random Number Generators
 
