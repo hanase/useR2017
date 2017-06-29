@@ -1,5 +1,5 @@
 # Introduction to parallel computing with R
-Hana &#352;ev&#269;&#237;kov&#225;
+**Instructor:** Hana &#352;ev&#269;&#237;kov&#225;,
 University of Washington
 
 
