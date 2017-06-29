@@ -1,7 +1,7 @@
 # Introduction to parallel computing with R
 **Instructor:** Hana &#352;ev&#269;&#237;kov&#225;,
 University of Washington
-
+**Where and when:** useR!2017 conference, Brussels, July 4th 2017 
 
 **Keywords**: Parallel Computing, Master-Slave Paradigm, Reproducibility, Load Balancing, Distributed Random Number Generators
 
