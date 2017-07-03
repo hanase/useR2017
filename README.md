@@ -39,4 +39,4 @@ The tutorial is targeting people relatively new to R, so only basic knowledge of
 [Hana &#352;ev&#269;&#237;kov&#225;](http://www.stat.washington.edu/hana) is a Senior Research Scientist at the Center for Statistics and the Social Sciences at the University of Washington. She has collaborated on implementation of R packages for parallel computing and distributed random number generators, such as **snowFT**, **rlecuyer** and **snow**. More recently, she has been involved in developing demographic R packages as part of a collaborative research project with the United Nations.
 
 
-
+[Material](https://rawgit.com/PPgp/useR2017public/master/tutorial.html)
