@@ -34,6 +34,15 @@ In a parallel statistical application a few issues need more attention than in i
 
 The tutorial is targeting people relatively new to R, so only basic knowledge of R is required.
 
+Please install the following packages:
+
+```
+install.packages(c("foreach", "doParallel", "doRNG", 
+                   "snowFT", "extraDistr", "ggplot2", 
+                   "reshape2", "wpp2017"), 
+                 dependencies = TRUE)
+```
+
 # Instructor
 
 [Hana &#352;ev&#269;&#237;kov&#225;](http://www.stat.washington.edu/hana) is a Senior Research Scientist at the Center for Statistics and the Social Sciences at the University of Washington. She has collaborated on implementation of R packages for parallel computing and distributed random number generators, such as **snowFT**, **rlecuyer** and **snow**. More recently, she has been involved in developing demographic R packages as part of a collaborative research project with the United Nations.
