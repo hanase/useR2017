@@ -28,7 +28,8 @@ In a parallel statistical application a few issues need more attention than in i
 * Examples of using **parallel**
 * Random numbers generation
 * Reproducibility and load balancing
-* Review of useful **snow**-like R packages with examples
+* Review of useful **snow**-like R packages with examples (**snowFT** and **foreach**)
+* Benchmarking
 
 # Pre-requisites
 
@@ -42,6 +43,10 @@ install.packages(c("foreach", "doParallel", "doRNG",
                    "reshape2", "wpp2017"), 
                  dependencies = TRUE)
 ```
+
+#### Technical Note: 
+
+For RStudio users, please note that currently RStudio contains a bug that prevents one of the packages handled in the tutorial from working correctly. Thus I recommend that you use an alternative R user interface than RStudio. If you use RStudio, you will not be able to run about 1/4 of the material. (This bug in RStudio was reported and hopefully will be fixed soon.) 
 
 # Instructor
 
